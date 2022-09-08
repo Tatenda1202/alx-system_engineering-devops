@@ -1,1 +1,1 @@
-shell 02
+my shell redirections
